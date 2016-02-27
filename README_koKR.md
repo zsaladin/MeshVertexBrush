@@ -1,6 +1,7 @@
 # MeshVertexBrush
-Mesh의 Vertex에 색을 칠할 수 있는 Unity Asset 입니다. Vertex마다 Color 값을 지정할 수 있을 뿐만 아니라 Color 값이 있는 Vertex를 기반으로 
-새로운 Mesh를 생성할 수 있습니다.
+Mesh의 Vertex에 색을 칠할 수 있는 Unity Asset 입니다. Vertex마다 Color 값을 지정할 수 있을 뿐만 아니라 Color 값이 있는 Vertex를 기반으로 새로운 Mesh를 생성할 수 있습니다.
+
+Read this in other languages: 한국어, [English](README.md)
 
 ## 작업 순서
 - 작업할 Mesh를 선택한 후 Asset에 포함되어 있는 VertexColor Material을 추가합니다.
