@@ -37,7 +37,7 @@ Mesh의 Vertex에 색을 칠할 수 있는 Unity Asset 입니다. Vertex마다 C
 
 
 ## 저자
-김대희(Kim Daehee), zsaladinz@gmail.com
+- 김대희(zsaladinz@gmail.com)
 
 ## 라이센스
-해당 Asset은 MIT 라이센스를 따릅니다.
+- 해당 Asset은 MIT 라이센스를 따릅니다.
