@@ -35,3 +35,9 @@ Mesh의 Vertex에 색을 칠할 수 있는 Unity Asset 입니다. Vertex마다 C
 
   ![alt tag](https://cloud.githubusercontent.com/assets/6466389/13373013/068dc7ea-dd9f-11e5-9206-d010463452ca.png)
 
+
+## 저자
+김대희(Kim Daehee)
+
+## 라이선스
+해당 Asset은 MIT 라이선스를 따릅니다.
