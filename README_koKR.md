@@ -4,7 +4,7 @@ Mesh의 Vertex에 색을 칠할 수 있는 Unity Asset 입니다. Vertex마다 C
 Read this in other languages: 한국어, [English](README.md)
 
 ## 작업 순서
-- 작업할 Mesh를 선택한 후 Asset에 포함되어 있는 VertexColor Material을 추가합니다.
+- 작업할 Mesh를 선택한 후 Asset에 포함되어 있는 VertexColor Material을 추가합니다. 해당 Mesh는 반드시 Collider가 있어야합니다.
  
   ![alt tag](https://cloud.githubusercontent.com/assets/6466389/13373016/069697bc-dd9f-11e5-93c6-04cd985b4517.png)
 
