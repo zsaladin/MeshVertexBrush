@@ -5,7 +5,7 @@ It can't only specify the color of each vertex but also create another mesh base
 Read this in other languages: English, [한국어](README_koKR.md)
 
 ## How to use
-- Select a mesh you want. And add the 'VertexColor Material' included in the asset.
+- Select a mesh you want. And add the 'VertexColor Material' included in the asset. The mesh needs its collider.
  
   ![alt tag](https://cloud.githubusercontent.com/assets/6466389/13373016/069697bc-dd9f-11e5-93c6-04cd985b4517.png)
 
